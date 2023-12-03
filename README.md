@@ -1,3 +1,3 @@
 # start
 its my first repository
-Author = Abhay singh
+Author - Abhay singh
